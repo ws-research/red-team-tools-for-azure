@@ -34,7 +34,7 @@ Red-Team-Tools-For-Azure automates the reconnaissance phase of Azure penetration
 1.  **Prerequisites:** Ensure you have Java 21+ installed.
 2.  **Download latest JAR:**
 ```bash
-wget https://github.com/ws-research/red-team-tools-for-azure/releases/download/v1.0.0/red-team-tools-for-azure.jar
+wget https://github.com/ws-research/red-team-tools-for-azure/releases/download/v1.0/red-team-tools-for-azure.jar
 ```
 
 
