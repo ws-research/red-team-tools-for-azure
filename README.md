@@ -1,6 +1,6 @@
 # Red-Team-Tools-For-Azure
 
-**A comprehensive Azure AD and Microsoft Graph reconnaissance tool designed for authorized Red Team operations.**
+**A comprehensive Azure AD and Microsoft Graph offensive security tool designed for authorized Red Team operations.**
 
 [![Java 21](https://img.shields.io/badge/Java-21+-orange?logo=openjdk)](https://jdk.java.net/java-se-ri/21)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -21,7 +21,7 @@ YOU MUST HAVE **EXPLICIT, WRITTEN PERMISSION** BEFORE USING THIS TOOL AGAINST AN
 
 ## 🚀 Features
 
-Red-Team-Tools-For-Azure automates the reconnaissance phase of Azure penetration tests, allowing you to quickly identify and extract critical data from an engaged tenant.
+Red-Team-Tools-For-Azure automates the reconnaissance phase of Azure penetration tests, allowing you to quickly identify and extract sensitive and critical data from an engaged tenant.
 
 *   **📊 Tenant Information Gathering:** Quickly retrieve tenant details, domains, and organization information.
 *   **📧 Outlook/Exchange Online Enumeration:** Access mailbox metadata, message lists, and calendar information (subject to permissions).
