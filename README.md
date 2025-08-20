@@ -36,7 +36,10 @@ Red-Team-Tools-For-Azure automates the reconnaissance phase of Azure penetration
 ```bash
 wget https://github.com/ws-research/red-team-tools-for-azure/releases/download/v1.0/red-team-tools-for-azure.jar
 ```
-
+ **Download latest EXE:**
+```bash
+wget https://github.com/ws-research/red-team-tools-for-azure/releases/download/v1.0/red-team-tools-for-azure.exe
+```
 
 🤝 Contributing
 
