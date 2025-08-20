@@ -28,6 +28,14 @@ Red-Team-Tools-For-Azure automates the reconnaissance phase of Azure penetration
 *   **💾 Automated Data Extraction:** Download targeted emails (as EML), and other findings for offline analysis.
 
 ---
+**UI Preview**:  
+<img src=".//docs/DesktopUI1.PNG" width=600 >
+<img src=".//docs/DesktopUI2.PNG" width=600 >
+
+*Current interface showing authentication and email export workflow*
+
+---
+
 
 ## 🛠️ Installation
 
